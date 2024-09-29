@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foto Permukaan Mars</string>
+    <string name="loading_failed">Loading Gagal</string>
+    <string name="retry">Ulangi</string>
+    <string name="loading">Proses</string>
+    <string name="mars_photo">Foto Mars</string>
+</resources>
